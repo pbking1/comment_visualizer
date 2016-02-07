@@ -6,7 +6,7 @@
 
 ### What it does
 - Typically, this chrome plugin is used for help saving the time of agent of insurance company on the comment of consumer.
-
+- And the plugin is currently used for analyze the comment on http://www.customerservicescoreboard.com
 ### How I built it
 - I spend 30 hours working on my own and use different kind of javascript library to visualize the data I processed(using python to find pattern)
 
